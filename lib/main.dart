@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 //rofa is here
 // hey rofa
-  // This widget is the root of your application.
+// hello our big sister
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
