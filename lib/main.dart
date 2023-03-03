@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
 //rofa is here
 // hey rofa
 //how are you gogo? and momo ?
-  // This widget is the root of your application.
+//لو ينجح هالمرة بتشترون لي قهوة على حسابكم
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
